@@ -18,6 +18,13 @@ Learning JS and FrontEnd.
 * **VSC:** Git
 * **CI/CD:** Jenkins
 
+### Code example
+```javascript
+function solution(str) {
+  return str.split("").reverse().join("");
+}
+```
+
 ### Experience
 1. **Junior Software Engineer** (Jan 2022 - Current)
 2. **Senior QA Engineer** (Apr 2021 - Jan 2022)
