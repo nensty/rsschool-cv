@@ -1,5 +1,4 @@
-## Name and Surname
-Anastasiya Sazonava
+## Anastasiya Sazonava
 
 ### Contacts
 * Phone number: +480000000
