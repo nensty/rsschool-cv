@@ -1,1 +1,1 @@
-https://nensty.github.io/rsschool-cv/cv
+https://nensty.github.io/rsschool-cv/
